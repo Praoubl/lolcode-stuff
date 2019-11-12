@@ -1,4 +1,7 @@
 HAI 1.2
+I HAS A i ITZ 1
+I HAS A num3
+I HAS A num4
 I HAS A num1
 VISIBLE "OH HAI, IM DA CAT-COOLATER!"
 VISIBLE "GIMMEH A NUMBAR"
@@ -26,6 +29,23 @@ operator, WTF?
     GTFO
   OMG "%"
     VISIBLE SMOOSH num1 AN operator AN num2 AN "=" AN MOD OF num1 AN num2
+    GTFO
+  OMG "^" BTW TODO
+    num3 R num1
+    IM IN YR LOOP UPPIN YR i TIL BOTH SAEM i AN BIGGR OF i AN num2
+      num4 R PRODUKT OF num3 AN num1
+      num3 R num4
+    IM OUTTA YR LOOP
+    VISIBLE SMOOSH num1 AN operator AN num2 AN "=" AN num3
+    GTFO
+  OMG ">"
+    VISIBLE SMOOSH num1 AN operator AN num2 AN " IZ " AN DIFFRINT num1 AN SMALLR OF num1 AN num2
+    GTFO
+  OMG "<"
+    VISIBLE SMOOSH num1 AN operator AN num2 AN " IZ " AN DIFFRINT num1 AN BIGGR OF num1 AN num2
+    GTFO
+  OMG "="
+    VISIBLE SMOOSH num1 AN operator AN num2 AN " IZ " AN BOTH SAEM num1 AN num2
     GTFO
 OIC
 VISIBLE "KTHXBAI"
