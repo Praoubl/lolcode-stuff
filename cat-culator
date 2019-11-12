@@ -25,7 +25,7 @@ operator, WTF?
     VISIBLE SMOOSH num1 AN operator AN num2 AN "=" AN PRODUKT OF num1 AN num2
     GTFO
   OMG "/"
-    VISIBLE SMOOSH num1 AN operator AN num2 AN "=" AN QUOSHUNT OF num1 AN num2
+    VISIBLE SMOOSH num1 AN operator AN num2 AN "=" AN QUOSHUNT OF MAEK num1 A NUMBAR AN num2
     GTFO
   OMG "%"
     VISIBLE SMOOSH num1 AN operator AN num2 AN "=" AN MOD OF num1 AN num2
@@ -35,17 +35,23 @@ operator, WTF?
       YA RLY
         num3 R 1
         i R 0
-        IM IN YR LOOP NERFIN YR i TIL BOTH SAEM i AN BIGGR OF i AN num2
-          num4 R QUOSHUNT OF num3 AN num1
+        IM IN YR LOOP NERFIN YR i TIL BOTH SAEM i AN SMALLR OF i AN num2
+          num4 R QUOSHUNT OF MAEK num3 A NUMBAR AN num1
           num3 R num4
         IM OUTTA YR LOOP
       NO WAI
-        num3 R 1
-        i R 0
-        IM IN YR LOOP UPPIN YR i TIL BOTH SAEM i AN BIGGR OF i AN num2
-          num4 R PRODUKT OF num3 AN num1
-          num3 R num4
-        IM OUTTA YR LOOP
+        BOTH SAEM num2 AN 0, O RLY?
+          YA RLY
+            num3 R 1
+          NO WAI
+            num3 R num1
+            MAEK num3 A NUMBAR
+            i R 1
+            IM IN YR LOOP UPPIN YR i TIL BOTH SAEM i AN BIGGR OF i AN num2
+              num4 R PRODUKT OF num3 AN num1
+              num3 R num4
+            IM OUTTA YR LOOP
+        OIC
     OIC
     VISIBLE SMOOSH num1 AN operator AN num2 AN "=" AN num3
     GTFO
