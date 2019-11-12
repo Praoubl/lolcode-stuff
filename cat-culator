@@ -30,12 +30,23 @@ operator, WTF?
   OMG "%"
     VISIBLE SMOOSH num1 AN operator AN num2 AN "=" AN MOD OF num1 AN num2
     GTFO
-  OMG "^" BTW TODO
-    num3 R num1
-    IM IN YR LOOP UPPIN YR i TIL BOTH SAEM i AN BIGGR OF i AN num2
-      num4 R PRODUKT OF num3 AN num1
-      num3 R num4
-    IM OUTTA YR LOOP
+  OMG "^"
+    DIFFRINT num2 AN BIGGR OF num2 AN 0, O RLY?
+      YA RLY
+        num3 R 1
+        i R 0
+        IM IN YR LOOP NERFIN YR i TIL BOTH SAEM i AN BIGGR OF i AN num2
+          num4 R QUOSHUNT OF num3 AN num1
+          num3 R num4
+        IM OUTTA YR LOOP
+      NO WAI
+        num3 R 1
+        i R 0
+        IM IN YR LOOP UPPIN YR i TIL BOTH SAEM i AN BIGGR OF i AN num2
+          num4 R PRODUKT OF num3 AN num1
+          num3 R num4
+        IM OUTTA YR LOOP
+    OIC
     VISIBLE SMOOSH num1 AN operator AN num2 AN "=" AN num3
     GTFO
   OMG ">"
