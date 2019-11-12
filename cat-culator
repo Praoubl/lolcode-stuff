@@ -17,19 +17,19 @@ VISIBLE "FOUND YR ANSER"
 BTW this line needs to be a comment
 operator, WTF?
   OMG "+"
-    VISIBLE SMOOSH num1 AN operator AN num2 AN "=" AN SUM OF num1 AN num2
+    VISIBLE SMOOSH num1 AN operator AN num2 AN "=" AN SUM OF MAEK num1 A NUMBAR AN num2
     GTFO
   OMG "-"
-    VISIBLE SMOOSH num1 AN operator AN num2 AN "=" AN DIFF OF num1 AN num2
+    VISIBLE SMOOSH num1 AN operator AN num2 AN "=" AN DIFF OF MAEK num1 A NUMBAR AN num2
     GTFO
   OMG "*"
-    VISIBLE SMOOSH num1 AN operator AN num2 AN "=" AN PRODUKT OF num1 AN num2
+    VISIBLE SMOOSH num1 AN operator AN num2 AN "=" AN PRODUKT OF MAEK num1 A NUMBAR AN num2
     GTFO
   OMG "/"
     VISIBLE SMOOSH num1 AN operator AN num2 AN "=" AN QUOSHUNT OF MAEK num1 A NUMBAR AN num2
     GTFO
   OMG "%"
-    VISIBLE SMOOSH num1 AN operator AN num2 AN "=" AN MOD OF num1 AN num2
+    VISIBLE SMOOSH num1 AN operator AN num2 AN "=" AN MOD OF MAEK num1 A NUMBAR AN num2
     GTFO
   OMG "^"
     DIFFRINT num2 AN BIGGR OF num2 AN 0, O RLY?
@@ -57,10 +57,10 @@ operator, WTF?
     VISIBLE SMOOSH num1 AN operator AN num2 AN "=" AN num3
     GTFO
   OMG ">"
-    VISIBLE SMOOSH num1 AN operator AN num2 AN " IZ " AN DIFFRINT num1 AN SMALLR OF num1 AN num2
+    VISIBLE SMOOSH num1 AN operator AN num2 AN " IZ " AN DIFFRINT MAEK num1 A NUMBAR AN SMALLR OF MAEK num1 A NUMBAR AN num2
     GTFO
   OMG "<"
-    VISIBLE SMOOSH num1 AN operator AN num2 AN " IZ " AN DIFFRINT num1 AN BIGGR OF num1 AN num2
+    VISIBLE SMOOSH num1 AN operator AN num2 AN " IZ " AN DIFFRINT MAEK num1 A NUMBAR AN BIGGR OF MAEK num1 A NUMBAR AN num2
     GTFO
   OMG "="
     VISIBLE SMOOSH num1 AN operator AN num2 AN " IZ " AN BOTH SAEM num1 AN num2
