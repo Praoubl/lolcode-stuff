@@ -2,6 +2,7 @@ HAI 1.2
 I HAS A i ITZ 1
 I HAS A num3
 I HAS A num4
+I HAS A bool ITZ FAIL
 I HAS A num1
 VISIBLE "OH HAI, IM DA CAT-COOLATER!"
 VISIBLE "GIMMEH A NUMBAR"
@@ -40,18 +41,18 @@ operator, WTF?
           num3 R num4
         IM OUTTA YR LOOP
       NO WAI
-        BOTH SAEM num2 AN 0, O RLY?
-          YA RLY
-            num3 R 1
-          NO WAI
-            num3 R num1
-            MAEK num3 A NUMBAR
-            i R 1
-            IM IN YR LOOP UPPIN YR i TIL BOTH SAEM i AN BIGGR OF i AN num2
-              num4 R PRODUKT OF num3 AN num1
-              num3 R num4
-            IM OUTTA YR LOOP
-        OIC
+        bool R WIN
+    OIC
+    ALL OF bool AN BOTH SAEM num2 AN 0 MKAY, O RLY?
+      YA RLY
+        num3 R 1
+      NO WAI
+        num3 R 1
+        i R 0
+        IM IN YR LOOP UPPIN YR i TIL BOTH SAEM i AN BIGGR OF i AN num2
+          num4 R PRODUKT OF num3 AN num1
+          num3 R num4
+        IM OUTTA YR LOOP
     OIC
     VISIBLE SMOOSH num1 AN operator AN num2 AN "=" AN num3
     GTFO
