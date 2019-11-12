@@ -1,0 +1,32 @@
+HAI 1.2
+I HAS A num1
+VISIBLE "OH HAI, IM DA CAT-COOLATER!"
+VISIBLE "GIMMEH A NUMBAR"
+GIMMEH num1
+I HAS A operator
+VISIBLE "CAN I HAZ OPURATER?"
+GIMMEH operator
+I HAS A num2
+VISIBLE "GIMMEH ANOTHUR NUMBAR"
+GIMMEH num2
+VISIBLE "FOUND YR ANSER"
+BTW this line needs to be a comment
+operator, WTF?
+  OMG "+"
+    VISIBLE SMOOSH num1 AN operator AN num2 AN "=" AN SUM OF num1 AN num2
+    GTFO
+  OMG "-"
+    VISIBLE SMOOSH num1 AN operator AN num2 AN "=" AN DIFF OF num1 AN num2
+    GTFO
+  OMG "*"
+    VISIBLE SMOOSH num1 AN operator AN num2 AN "=" AN PRODUKT OF num1 AN num2
+    GTFO
+  OMG "/"
+    VISIBLE SMOOSH num1 AN operator AN num2 AN "=" AN QUOSHUNT OF num1 AN num2
+    GTFO
+  OMG "%"
+    VISIBLE SMOOSH num1 AN operator AN num2 AN "=" AN MOD OF num1 AN num2
+    GTFO
+OIC
+VISIBLE "KTHXBAI"
+KTHXBYE
